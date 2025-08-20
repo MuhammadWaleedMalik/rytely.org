@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "在 {website.name} 玩真人在线游戏",
+    "subtitle": "加入 {website.name} 的真人在线游戏狂欢。与来自 {primaryColor1}180+ 个国家{primaryColor1} 的玩家竞技，主持自己的游戏，或直接参与实时多人对战。"
+  },
+  "joinGames": {
+    "title": "加入或主持真人游戏",
+    "description": "通过 {website.name} 的真人游戏平台进入游戏。不论你是玩家还是主持人，我们的工具都能让你轻松连接并实时竞技。立即注册，开启你的游戏之旅。",
+    "form": {
+      "title": "注册参与真人游戏",
+      "subtitle": "填写表格以加入或主持一场 {website.name} 上的真人游戏。",
+      "fields": {
+        "name": "全名",
+        "email": "电子邮箱",
+        "game": "选择游戏",
+        "role": "选择角色",
+        "submit": "立即加入"
+      },
+      "games": ["堡垒之夜", "我们之中", "无畏契约", "绝地求生", "使命召唤：战区", "Powerline.io", "炸弹之战"],
+      "roles": ["玩家", "主持人"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "创建你的账户",
+        "description": "在 {website.name} 免费注册，进入我们的真人游戏平台并加入社区。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "选择你的游戏",
+        "description": "从堡垒之夜、我们之中、无畏契约等热门游戏中选择，并加入或主持游戏会话。",
+        "icon": "gamepad"
+      },
+      {
+        "id": 3,
+        "title": "开始游戏并竞技",
+        "description": "参与实时比赛，与玩家合作，并通过 {website.name} 的工具跟踪你的进展。",
+        "icon": "play"
+      }
+    ]
+  },
+  "popularGames": {
+    "title": "热门真人游戏",
+    "items": [
+      {
+        "id": 1,
+        "title": "堡垒之夜",
+        "description": "加入 Epic 的吃鸡大战。参加真人比赛，在 {website.name} 上争夺胜利皇冠。",
+        "icon": "trophy",
+        "image": "https://images.unsplash.com/photo-1595675021513-0e8f48c25dc0?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "id": 2,
+        "title": "我们之中",
+        "description": "在这款刺激的多人游戏中，扮演船员或内鬼，合作或欺骗，尽在 {website.name} 真人体验。",
+        "icon": "users",
+        "image": "https://images.unsplash.com/photo-1611293388357-2d4c204d8d5f?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "id": 3,
+        "title": "无畏契约",
+        "description": "在 5v5 真人比赛中测试你的瞄准与策略。与朋友一起玩，或在 {website.name} 上进行全球竞技。",
+        "icon": "play",
+        "image": "https://images.unsplash.com/photo-1628191010210-3b00b216030e?q=80&w=2070&auto=format&fit=crop"
+      }
+    ]
+  }
+}

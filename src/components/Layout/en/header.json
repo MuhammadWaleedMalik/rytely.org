@@ -1,0 +1,17 @@
+{
+  "logoAlt": "{websiteName} Logo",
+  "nav": {
+    "teams": "Teams",
+    "fans": "Fans",
+    "titanGps": "Titan GPS",
+    "liveGames": "Live Games",
+    "analytics": "Analytics",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "languageSelector": {
+    "heading": "Languages",
+    "changeLanguageLabel": "Change Language"
+  }
+}

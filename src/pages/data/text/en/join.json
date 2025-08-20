@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "title": "Join {website.name} as a Coach or Team Member",
+    "subtitle": "Become part of a global community revolutionizing sports performance. Whether you're a coach leading teams to victory or a team member striving for excellence, {website.name} provides the tools you need."
+  },
+  "becomeCoach": {
+    "title": "How to Become a Coach on {website.name}",
+    "description": "As a coach, you'll have access to advanced analytics, video tools, and team management features to guide your athletes to success. Follow these steps to get started and elevate your coaching game.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Sign Up for Free",
+        "description": "Create your {website.name} account in minutes. Provide basic information and verify your email to start exploring our platform.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Set Up Your Profile",
+        "description": "Add your coaching experience, select your sport, and customize your dashboard. Connect with teams or create new ones effortlessly.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Access Tools & Resources",
+        "description": "Dive into video analysis, stats tracking, and collaboration features. Invite team members and start building winning strategies today.",
+        "icon": "stats"
+      }
+    ]
+  },
+  "becomeTeamMember": {
+    "title": "How to Become a Team Member on {website.name}",
+    "description": "Join as a team member to track your performance, collaborate with coaches, and access personalized insights. It's easy to get involved in any sport worldwide.",
+    "form": {
+      "title": "Sign Up as a Coach or Team Member",
+      "subtitle": "Fill out the form below to join {website.name} and start your journey in sports performance.",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "role": "Select Role",
+        "sport": "Select Sport",
+        "submit": "Join Now"
+      },
+      "roles": ["Coach", "Team Member"],
+      "sports": ["Soccer", "Basketball", "Volleyball", "Football", "Hockey", "Baseball", "Track and Field", "Swimming", "Tennis", "Lacrosse", "Rugby", "Cricket", "Wrestling", "Softball", "Gymnastics"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Register Your Account",
+        "description": "Sign up with your details and choose your role as a coach or team member. No fees required to join and start contributing.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Join or Create a Team",
+        "description": "Search for existing teams in your sport or create a new one. Connect with coaches and fellow athletes globally.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Engage with Features",
+        "description": "Upload videos, view stats, and participate in discussions. Use our tools to improve your skills and team performance.",
+        "icon": "video"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Benefits of Joining {website.name}",
+    "items": [
+      {
+        "id": 1,
+        "title": "Advanced Analytics",
+        "description": "Gain deep insights into performance with AI-powered stats and visualizations for better decision-making.",
+        "icon": "stats"
+      },
+      {
+        "id": 2,
+        "title": "Global Community",
+        "description": "Connect with teams and coaches in over {primaryColor1}180+ countries{primaryColor1} to share knowledge and opportunities.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Video Collaboration",
+        "description": "Share and analyze game footage in real-time with intuitive tools designed for all sports levels.",
+        "icon": "video"
+      },
+      {
+        "id": 4,
+        "title": "Personalized Support",
+        "description": "Receive tailored guidance and resources to maximize your potential as a coach or team member.",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "title": "Multi-Sport Support",
+        "description": "Whether it's soccer, basketball, or any of 15+ sports, our platform adapts to your needs.",
+        "icon": "globe"
+      },
+      {
+        "id": 6,
+        "title": "Free Access",
+        "description": "Start with our free plan and upgrade as needed for premium features and higher limits.",
+        "icon": "stats"
+      }
+    ]
+  }
+}

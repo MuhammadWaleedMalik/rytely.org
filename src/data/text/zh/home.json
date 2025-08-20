@@ -1,0 +1,88 @@
+{
+  "page1": {
+    "title": "改变你看待比赛的方式",
+    "slogan": "{website.name} 帮助运动员、球队、教练和社区充分利用每一刻。",
+    "links": [
+      { "text": "为教练和球队", "to": "/teams" },
+      { "text": "为粉丝和家庭", "to": "/fans" }
+    ]
+  },
+  "page2": {
+    "title": "我们的特色解决方案",
+    "cards": [
+      {
+        "title": "Titan GPS 加入",
+        "description": "全面视角的运动员表现——将身体指标、视频和统计数据结合到一个强大的生态系统中。",
+        "link": "/titan-gps"
+      },
+      {
+        "title": "观看直播比赛和集锦",
+        "description": "你喜欢的运动员和球队都在这个平台上——从直播到不容错过的精彩时刻。",
+        "link": "/live-games"
+      },
+
+      {
+        "title": "以不同角度看运动",
+        "description": "在数据、分析和性能分析方面，为更多运动提供更多解决方案。",
+        "link": "/analytics"
+      }
+    ]
+  },
+  "page3": {
+    "title": "值得信赖的体育技术平台 提升表现",
+    "description": "我们提供最佳视频、即时分析和实际可用的洞见。这就是我们在各级体育组织中的运行方式。"
+  },
+  "page4": {
+    "title": "连接运动员、团队和社区",
+    "description": "想关注你最喜爱的运动员或球队吗？无论是比分、赛程、统计、直播还是其他内容……一切尽在 {website.name}。",
+    "links": [
+      { "text": "探索我们的项目", "to": "/teams" }
+    ]
+  },
+  "page6": {
+    "title": "我们相信体育。团队相信我们。",
+    "stats": [
+      { "number": "200K+", "label": "全球团队" },
+      { "number": "6M+", "label": "活跃用户" },
+      { "number": "180+", "label": "国家" }
+    ],
+    "testimonials": [
+      {
+        "name": "Lewis Macmillan",
+        "role": "富勒姆足球俱乐部 球员洞察主管",
+        "quote": "通过与我们合作，关于整合、有效、整体的运动员数据分析理念得以实现。这被视为重大进步。"
+      },
+      {
+        "name": "Quentin White",
+        "role": "麦格雷戈高中（德州）体育主任",
+        "quote": "这确实让我在有了这个一站式系统后能更好地完成工作。"
+      }
+    ]
+  },
+  "page7": {
+    "title": "完整体育解决方案",
+    "cards": [
+      {
+        "title": "Titan GPS 加入",
+        "description": "全面视角的运动员表现——将身体指标、视频和统计数据结合到一个强大的生态系统中。",
+        "link": "/titan-gps"
+      },
+      {
+        "title": "观看直播比赛和集锦",
+        "description": "你喜欢的运动员和球队都在这个平台上——从直播到不容错过的精彩时刻。",
+        "link": "/live-games"
+      },
+      
+      
+      {
+        "title": "以不同角度看运动",
+        "description": "在数据、分析和性能分析方面，为更多运动提供更多解决方案。",
+        "link": "/analytics"
+      }
+    ]
+  },
+  "page8": {
+    "title": "观看 {website.name} 实际应用。",
+    "link": { "text": "立即注册", "to": "/signup" }
+  }
+}

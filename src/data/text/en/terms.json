@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "Terms of Service for {website.name}",
+    "subtitle": "Please read these terms carefully. Your use of our platform constitutes acceptance of these terms and conditions."
+  },
+  "mission": {
+    "title": "Introduction and Acceptance",
+    "description": "These Terms of Service govern your use of {website.name}'s website, apps, and services. By accessing or using our platform, you agree to these terms. If you do not agree, you must not use our services."
+  },
+  "features": {
+    "title": "Key Provisions",
+    "items": [
+      {
+        "id": 1,
+        "title": "User Eligibility and Accounts",
+        "description": "You must be at least 13 years old to use our services (or older if required by law). You are responsible for your account security and accuracy of information provided.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Content Ownership and License",
+        "description": "You own your content but grant {website.name} a non-exclusive, worldwide license to use, host, and distribute it to provide our services.",
+        "icon": "video"
+      },
+      {
+        "id": 3,
+        "title": "Prohibited Activities",
+        "description": "You may not use the platform for illegal purposes, infringement of rights, harassment, or any activity that harms {website.name} or its users.",
+        "icon": "globe"
+      },
+      {
+        "id": 4,
+        "title": "Termination and Suspension",
+        "description": "{website.name} may terminate or suspend your account at any time for violations of these terms or other policies.",
+        "icon": "share"
+      },
+      {
+        "id": 5,
+        "title": "Disclaimers and Warranties",
+        "description": "Our services are provided 'as is' without any warranties. We disclaim all implied warranties to the fullest extent permitted by law.",
+        "icon": "stats"
+      },
+      {
+        "id": 6,
+        "title": "Limitation of Liability",
+        "description": "{website.name} shall not be liable for indirect, incidental, or consequential damages arising from your use of the platform.",
+        "icon": "camera"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} By The Numbers",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "Teams Worldwide"
+      },
+      {
+        "value": "6M+",
+        "label": "Active Users"
+      },
+      {
+        "value": "180+",
+        "label": "Countries"
+      },
+      {
+        "value": "15+",
+        "label": "Sports"
+      }
+    ]
+  },
+  "team": {
+    "title": "Changes to These Terms",
+    "description": "We may modify these terms at any time. We will notify users of significant changes. Continued use after changes constitutes acceptance."
+  }
+}

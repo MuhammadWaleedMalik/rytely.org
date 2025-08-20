@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "{website.name} Blog",
+    "subtitle": "Discover the latest insights, tips, and updates on sports technology, performance analysis, and more from the {website.name} team."
+  },
+  "blogs": {
+    "title": "Latest Posts",
+    "items": [
+      {
+        "id": 1,
+        "title": "How AI is Transforming Sports Analysis",
+        "description": "Artificial intelligence is revolutionizing how coaches and athletes analyze performance. At {website.name}, our AI tools help identify key plays and trends in seconds. From automated highlight reels to predictive analytics, learn how technology is shaping the future of sports. Our latest updates make analysis faster and more intuitive than ever. Stay ahead of the game with {website.name}.",
+        "author": "Lucas Andrade",
+        "date": "August 5, 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujYgGA83X-bf70YeHs5PPzJCP107naLymbg&s"
+      },
+      {
+        "id": 2,
+        "title": "Maximizing Team Performance with Video Tools",
+        "description": "Video analysis is a game-changer for coaches. With {website.name}, teams can break down plays frame by frame to pinpoint strengths and weaknesses. Our platform integrates seamlessly with practice workflows, saving time and boosting efficiency. Discover how top teams use our tools to elevate their game plans and achieve consistent wins.",
+        "author": "Isabella Rossi",
+        "date": "July 28, 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO2tbVJ2ldXcxWnc6Oew-mb7CFBTcF6Q1fw&s"
+      },
+      {
+        "id": 3,
+        "title": "The Future of Sports Tech: What’s Next?",
+        "description": "Sports technology is evolving rapidly, and {website.name} is at the forefront. From wearable devices to real-time analytics, we’re building tools that empower athletes globally. Explore the trends shaping the industry and how our platform is preparing teams for the next era of competition. Innovation starts here.",
+        "author": "David Li",
+        "date": "July 15, 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf5tGvZE6yaXpkwC_ajOfjRSQKQd87OtqLA&s"
+      },
+      {
+        "id": 4,
+        "title": "Building a Winning Culture with Data",
+        "description": "Data-driven decisions are key to building a winning team culture. {website.name} provides insights that help coaches make smarter choices. From tracking player progress to optimizing strategies, our tools foster collaboration and growth. Learn how top teams use data to stay competitive and united.",
+        "author": "Chloe Nguyen",
+        "date": "June 30, 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucPgg7EQymM1PZxrap_1mnRmwuBwORnM_zZS6-yfr1-hnmkAvN7sYUAblsbVtpFrGkyE&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Global Reach: Connecting Teams Worldwide",
+        "description": "With users in over {primaryColor1}180+ countries{primaryColor1}, {website.name} connects teams across the globe. Our platform supports multiple languages and adapts to local needs, ensuring accessibility for all. Discover how we’re helping teams from grassroots to professional levels collaborate and succeed.",
+        "author": "Omar Khalid",
+        "date": "June 10, 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRou2OiEkjargTJ3Wr6FT2INGd8h4DUmtr82w&s"
+      },
+      {
+        "id": 6,
+        "title": "Empowering Athletes with Accessible Tools",
+        "description": "At {website.name}, we believe every athlete deserves pro-level tools. Our platform makes advanced analytics easy to use for teams at all levels. From youth leagues to elite squads, our mission is to empower everyone with the insights needed to excel. Join us in leveling the playing field.",
+        "author": "Emily Carter",
+        "date": "May 25, 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurNAIR2sqygd7UGRTolEoD5lTFfdXG0uFdQ&s"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "page1": {
+    "title": "Change the Way You See the Game",
+    "slogan": "{website.name} helps athletes, teams, coaches and communities get the most out of every moment.",
+    "links": [
+      { "text": "FOR COACHES AND TEAMS", "to": "/teams" },
+      { "text": "FOR FANS AND FAMILY", "to": "/fans" }
+    ]
+  },
+  "page2": {
+    "title": "Our Featured Solutions",
+    "cards": [
+      {
+        "title": "Titan GPS Joins",
+        "description": "A full view of athlete performance–combining physical metrics, video, and stats for all levels in one powerful ecosystem.",
+        "link": "/titan-gps"
+      },
+      {
+        "title": "Watch Live Games and Highlights",
+        "description": "Your favorite athletes and teams are all on  this platform — from livestreams to can't-miss moments.",
+        "link": "/live-games"
+      },
+    
+      {
+        "title": "See Your Sport Differently",
+        "description": "When it comes to data, analytics and performance analysis, it delivers more solutions for more sports.",
+        "link": "/analytics"
+      }
+    ]
+  },
+  "page3": {
+    "title": "The Trusted Sports Technology Platform for Performance",
+    "description": "We provide the best video with instant analysis and insights everyone can actually use. This is how we run organizations at every level of sport."
+  },
+  "page4": {
+    "title": "Connect With Athletes, Teams and Communities",
+    "description": "Looking to follow your favorite athlete or team? Whether it's scores, schedules, stats, livestreams or anything in between... it's on {website.name}.",
+    "links": [
+      { "text": "Explore Our Programs", "to": "/teams" }
+    ]
+  },
+  "page6": {
+    "title": "We believe in sports. And teams believe in us.",
+    "stats": [
+      { "number": "200K+", "label": "Teams Worldwide" },
+      { "number": "6M+", "label": "Active Users" },
+      { "number": "180+", "label": "Countries" }
+    ],
+    "testimonials": [
+      {
+        "name": "Lewis Macmillan",
+        "role": "Head of Player Insights, Fulham FC",
+        "quote": "By partnering with us, our idea of an integrated, efficient, holistic approach to athlete data analysis can be realized. We see this as a big step forward."
+      },
+      {
+        "name": "Quentin White",
+        "role": "Athletic Director, McGregor HS (TX)",
+        "quote": "It really affords me more time to do my job better when I have this one-stop shop."
+      }
+    ]
+  },
+  "page7": {
+    "title": "Complete Sports Solutions",
+    "cards": [
+      {
+        "title": "Titan GPS Joins",
+        "description": "A full view of athlete performance–combining physical metrics, video, and stats for all levels in one powerful ecosystem.",
+        "link": "/titan-gps"
+      },
+      {
+        "title": "Watch Live Games and Highlights",
+        "description": "Your favorite athletes and teams are all on  this platform — from livestreams to can't-miss moments.",
+        "link": "/live-games"
+      },
+ 
+      {
+        "title": "See Your Sport Differently",
+        "description": "When it comes to data, analytics and performance analysis, it delivers more solutions for more sports.",
+        "link": "/analytics"
+      }
+    ]
+  },
+  "page8": {
+    "title": "See {website.name} in action.",
+    "link": { "text": "Sign Up Now", "to": "/signup" }
+  }
+}

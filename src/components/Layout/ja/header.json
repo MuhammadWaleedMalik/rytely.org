@@ -1,0 +1,17 @@
+{
+  "logoAlt": "{websiteName} ロゴ",
+  "nav": {
+    "teams": "チーム",
+    "fans": "ファン",
+    "titanGps": "Titan GPS",
+    "liveGames": "ライブゲーム",
+    "analytics": "分析",
+    "login": "ログイン",
+    "signup": "サインアップ",
+    "logout": "ログアウト"
+  },
+  "languageSelector": {
+    "heading": "言語",
+    "changeLanguageLabel": "言語を変更"
+  }
+}

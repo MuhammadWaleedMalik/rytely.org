@@ -1,0 +1,17 @@
+{
+  "logoAlt": "Logotipo de {websiteName}",
+  "nav": {
+    "teams": "Equipos",
+    "fans": "Aficionados",
+    "titanGps": "Titan GPS",
+    "liveGames": "Juegos en Vivo",
+    "analytics": "Analítica",
+    "login": "Iniciar sesión",
+    "signup": "Registrarse",
+    "logout": "Cerrar sesión"
+  },
+  "languageSelector": {
+    "heading": "Idiomas",
+    "changeLanguageLabel": "Cambiar idioma"
+  }
+}

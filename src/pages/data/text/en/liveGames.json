@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "Play Live Online Games with {website.name}",
+    "subtitle": "Join the excitement of live online gaming on {website.name}. Compete with players in {primaryColor1}180+ countries{primaryColor1}, host your own sessions, or jump into real-time multiplayer action."
+  },
+  "joinGames": {
+    "title": "Join or Host Live Games",
+    "description": "Get in the game with {website.name}’s live gaming platform. Whether you’re a player or a host, our tools make it easy to connect and compete in real-time. Sign up below to start your gaming journey.",
+    "form": {
+      "title": "Sign Up for Live Games",
+      "subtitle": "Fill out the form to join or host a live gaming session on {website.name}.",
+      "fields": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "game": "Select Game",
+        "role": "Select Role",
+        "submit": "Join Now"
+      },
+      "games": ["Fortnite", "Among Us", "Valorant", "PUBG", "Call of Duty: Warzone", "Powerline.io", "Game of Bombs"],
+      "roles": ["Player", "Host"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Create Your Account",
+        "description": "Sign up for free on {website.name} to access our live gaming platform and join the community.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Choose Your Game",
+        "description": "Select from popular live games like Fortnite, Among Us, or Valorant, and join or host sessions.",
+        "icon": "gamepad"
+      },
+      {
+        "id": 3,
+        "title": "Play and Compete",
+        "description": "Jump into real-time matches, collaborate with players, and track your progress with {website.name} tools.",
+        "icon": "play"
+      }
+    ]
+  },
+  "popularGames": {
+    "title": "Popular Live Games",
+    "items": [
+      {
+        "id": 1,
+        "title": "Fortnite",
+        "description": "Join millions in Epic’s battle royale. Compete in live matches and aim for Victory Royale on {website.name}.",
+        "icon": "trophy",
+        "image": "https://images.unsplash.com/photo-1595675021513-0e8f48c25dc0?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "id": 2,
+        "title": "Among Us",
+        "description": "Team up or deceive as a crewmate or impostor in this thrilling multiplayer game, live on {website.name}.",
+        "icon": "users",
+        "image": "https://images.unsplash.com/photo-1611293388357-2d4c204d8d5f?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "id": 3,
+        "title": "Valorant",
+        "description": "Test your aim and strategy in 5v5 live matches. Play with friends or compete globally on {website.name}.",
+        "icon": "play",
+        "image": "https://images.unsplash.com/photo-1628191010210-3b00b216030e?q=80&w=2070&auto=format&fit=crop"
+      }
+    ]
+  }
+}

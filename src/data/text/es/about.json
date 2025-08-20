@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "Cambiando el juego con {website.name}",
+    "subtitle": "Estamos revolucionando la forma en que atletas, entrenadores y equipos analizan el rendimiento y se relacionan con los fans"
+  },
+  "mission": {
+    "title": "Nuestra misión",
+    "description": "{website.name} existe para ayudar a equipos y atletas a ganar mediante el análisis de video, las ideas basadas en datos y herramientas de participación de fans. Creemos que la tecnología debe mejorar, no complicar, la experiencia deportiva."
+  },
+  "features": {
+    "title": "Por qué los equipos eligen {website.name}",
+    "items": [
+      {
+        "id": 1,
+        "title": "Análisis de video",
+        "description": "Desglosa las filmaciones del juego con nuestras potentes herramientas que ayudan a entrenadores y atletas a identificar fortalezas y áreas de mejora.",
+        "icon": "video"
+      },
+      {
+        "id": 2,
+        "title": "Estadísticas de rendimiento",
+        "description": "Haz seguimiento y visualiza métricas clave con nuestro panel avanzado de análisis para medir el progreso a lo largo del tiempo.",
+        "icon": "stats"
+      },
+      {
+        "id": 3,
+        "title": "Compromiso con los fans",
+        "description": "Conéctate con tu comunidad mediante transmisiones en vivo, destacados y contenido interactivo.",
+        "icon": "users"
+      },
+      {
+        "id": 4,
+        "title": "Alcance global",
+        "description": "Utilizado por equipos en {primaryColor1}180+ países{primaryColor1}, nuestra plataforma conecta a la comunidad deportiva global.",
+        "icon": "globe"
+      },
+      {
+        "id": 5,
+        "title": "Compartir fácilmente",
+        "description": "Comparte clips y análisis con jugadores, entrenadores y reclutadores con solo unos clics.",
+        "icon": "share"
+      },
+      {
+        "id": 6,
+        "title": "Captura automática",
+        "description": "Nuestras cámaras inteligentes graban y etiquetan automáticamente los momentos clave para que nunca te pierdas jugadas importantes.",
+        "icon": "camera"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} en cifras",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "Equipos en todo el mundo"
+      },
+      {
+        "value": "6M+",
+        "label": "Usuarios activos"
+      },
+      {
+        "value": "180+",
+        "label": "Países"
+      },
+      {
+        "value": "15+",
+        "label": "Deportes"
+      }
+    ]
+  },
+  "team": {
+    "title": "Nuestro equipo",
+    "description": "El equipo de {website.name} está formado por ex atletas, entrenadores y apasionados tecnólogos dedicados a mejorar el deporte a través de la innovación."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "Política de Privacidad de {website.name}",
+    "subtitle": "Valoramos su privacidad y estamos comprometidos a proteger su información personal"
+  },
+  "mission": {
+    "title": "Nuestro Compromiso con la Privacidad",
+    "description": "En {website.name}, nos tomamos muy en serio su privacidad. Esta política explica cómo recopilamos, usamos y protegemos sus datos cuando utiliza nuestra plataforma y servicios."
+  },
+  "features": {
+    "title": "Prácticas Clave de Privacidad",
+    "items": [
+      {
+        "id": 1,
+        "title": "Información que Recopilamos",
+        "description": "Recopilamos información personal como correo electrónico, nombre y datos de uso, así como el contenido que sube como videos y estadísticas.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Cómo Usamos sus Datos",
+        "description": "Su información se utiliza para prestar servicios, mejorar nuestra plataforma, comunicarnos con usted y cumplir con requisitos legales.",
+        "icon": "stats"
+      },
+      {
+        "id": 3,
+        "title": "Compartición de Datos",
+        "description": "Podemos compartir datos con proveedores de servicios, en transferencias comerciales o cuando lo requiera la ley. No vendemos su información personal.",
+        "icon": "share"
+      },
+      {
+        "id": 4,
+        "title": "Medidas de Seguridad",
+        "description": "Implementamos prácticas de seguridad estándar de la industria para proteger sus datos contra el acceso o la divulgación no autorizados.",
+        "icon": "globe"
+      },
+      {
+        "id": 5,
+        "title": "Sus Derechos y Opciones",
+        "description": "Puede acceder, actualizar, eliminar sus datos y optar por no recibir ciertas comunicaciones. Contáctenos para solicitudes de privacidad.",
+        "icon": "video"
+      },
+      {
+        "id": 6,
+        "title": "Cookies y Seguimiento",
+        "description": "Usamos cookies para funciones y análisis. Puede gestionar las preferencias de cookies a través de la configuración de su navegador.",
+        "icon": "camera"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} en Números",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "Equipos en todo el mundo"
+      },
+      {
+        "value": "6M+",
+        "label": "Usuarios Activos"
+      },
+      {
+        "value": "180+",
+        "label": "Países"
+      },
+      {
+        "value": "15+",
+        "label": "Deportes"
+      }
+    ]
+  },
+  "team": {
+    "title": "Actualizaciones de Esta Política",
+    "description": "Podemos actualizar esta política de privacidad periódicamente. Le notificaremos cambios importantes por correo electrónico o anuncios en la plataforma."
+  }
+}

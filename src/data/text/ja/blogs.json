@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "{website.name} ブログ",
+    "subtitle": "{website.name} チームからのスポーツテクノロジー、パフォーマンス分析などに関する最新の洞察、ヒント、更新情報をご覧ください。"
+  },
+  "blogs": {
+    "title": "最新記事",
+    "items": [
+      {
+        "id": 1,
+        "title": "AIがスポーツ分析を変革する方法",
+        "description": "人工知能は、コーチやアスリートがパフォーマンスを分析する方法を根本的に変えています。{website.name} では、AIツールが数秒で重要なプレーや傾向を特定します。自動ハイライト動画から予測分析まで、テクノロジーがスポーツの未来をどのように形作っているかをご紹介します。最新のアップデートにより、分析はこれまで以上に迅速かつ直感的になりました。{website.name} と共にゲームの最前線に立ちましょう。",
+        "author": "Lucas Andrade",
+        "date": "2025年8月5日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujYgGA83X-bf70YeHs5PPzJCP107naLymbg&s"
+      },
+      {
+        "id": 2,
+        "title": "ビデオツールでチームパフォーマンスを最大化",
+        "description": "ビデオ分析はコーチにとってゲームチェンジャーです。{website.name} を使えば、チームはプレーをフレームごとに分解し、強みと弱点を特定できます。私たちのプラットフォームは練習のワークフローとシームレスに統合され、時間を節約し効率を高めます。トップチームがどのようにツールを活用してゲームプランを向上させ、安定した勝利を収めているかをご覧ください。",
+        "author": "Isabella Rossi",
+        "date": "2025年7月28日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO2tbVJ2ldXcxWnc6Oew-mb7CFBTcF6Q1fw&s"
+      },
+      {
+        "id": 3,
+        "title": "スポーツテックの未来：次に来るものは？",
+        "description": "スポーツテクノロジーは急速に進化しており、{website.name} はその最前線にいます。ウェアラブルデバイスからリアルタイム分析まで、私たちは世界中のアスリートを支援するツールを開発しています。業界を形作るトレンドや、次世代の競争に備えるための私たちの取り組みをご紹介します。革新はここから始まります。",
+        "author": "David Li",
+        "date": "2025年7月15日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf5tGvZE6yaXpkwC_ajOfjRSQKQd87OtqLA&s"
+      },
+      {
+        "id": 4,
+        "title": "データで勝利文化を築く",
+        "description": "データに基づく意思決定は、勝利するチーム文化を築くための鍵です。{website.name} は、コーチがより賢い選択をするための洞察を提供します。選手の成長を追跡することから戦略を最適化することまで、私たちのツールは協力と成長を促進します。トップチームがどのようにデータを活用して競争力と団結力を維持しているかをご覧ください。",
+        "author": "Chloe Nguyen",
+        "date": "2025年6月30日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucPgg7EQymM1PZxrap_1mnRmwuBwORnM_zZS6-yfr1-hnmkAvN7sYUAblsbVtpFrGkyE&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "グローバルリーチ：世界中のチームをつなぐ",
+        "description": "{primaryColor1}180か国以上{primaryColor1} のユーザーを持つ {website.name} は、世界中のチームをつなぎます。私たちのプラットフォームは多言語に対応し、現地のニーズに適応することで、誰でも利用できるようにしています。草の根からプロレベルまで、チームがどのように協力し成功を収めているかをご紹介します。",
+        "author": "Omar Khalid",
+        "date": "2025年6月10日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRou2OiEkjargTJ3Wr6FT2INGd8h4DUmtr82w&s"
+      },
+      {
+        "id": 6,
+        "title": "アスリートを支える使いやすいツール",
+        "description": "{website.name} では、すべてのアスリートがプロレベルのツールを利用できるべきだと信じています。私たちのプラットフォームは、あらゆるレベルのチームが高度な分析を簡単に活用できるようにします。ユースリーグからエリートチームまで、私たちの使命は全員に成功するための洞察を提供することです。公平な競争の場を実現するために、ぜひご参加ください。",
+        "author": "Emily Carter",
+        "date": "2025年5月25日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurNAIR2sqygd7UGRTolEoD5lTFfdXG0uFdQ&s"
+      }
+    ]
+  }
+}

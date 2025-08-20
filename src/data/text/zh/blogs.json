@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "{website.name} 博客",
+    "subtitle": "探索来自 {website.name} 团队的最新见解、技巧和体育技术、性能分析等更新。"
+  },
+  "blogs": {
+    "title": "最新文章",
+    "items": [
+      {
+        "id": 1,
+        "title": "人工智能如何改变体育分析",
+        "description": "人工智能正在彻底改变教练和运动员分析表现的方式。在 {website.name}，我们的 AI 工具可以在几秒钟内识别关键回合和趋势。从自动精彩集锦到预测分析，了解技术如何塑造体育的未来。我们的最新更新让分析比以往更快、更直观。与 {website.name} 一起保持领先。",
+        "author": "Lucas Andrade",
+        "date": "2025年8月5日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujYgGA83X-bf70YeHs5PPzJCP107naLymbg&s"
+      },
+      {
+        "id": 2,
+        "title": "用视频工具最大化团队表现",
+        "description": "视频分析对教练来说是一个改变游戏规则的工具。借助 {website.name}，团队可以逐帧分解比赛，找出优点和不足。我们的平台与训练流程无缝集成，节省时间并提高效率。了解顶级团队如何使用我们的工具优化比赛计划并赢得稳定胜利。",
+        "author": "Isabella Rossi",
+        "date": "2025年7月28日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO2tbVJ2ldXcxWnc6Oew-mb7CFBTcF6Q1fw&s"
+      },
+      {
+        "id": 3,
+        "title": "体育科技的未来：下一步是什么？",
+        "description": "体育科技正在迅速发展，而 {website.name} 处于前沿。从可穿戴设备到实时分析，我们正在打造赋能全球运动员的工具。探索正在塑造行业的趋势，以及我们的平台如何为团队迎接新一代竞争做好准备。创新从这里开始。",
+        "author": "David Li",
+        "date": "2025年7月15日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf5tGvZE6yaXpkwC_ajOfjRSQKQd87OtqLA&s"
+      },
+      {
+        "id": 4,
+        "title": "用数据打造获胜文化",
+        "description": "数据驱动的决策是建立胜利团队文化的关键。{website.name} 提供的洞察力帮助教练做出更明智的选择。从跟踪球员进步到优化策略，我们的工具促进合作与成长。了解顶级团队如何利用数据保持竞争力和凝聚力。",
+        "author": "Chloe Nguyen",
+        "date": "2025年6月30日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucPgg7EQymM1PZxrap_1mnRmwuBwORnM_zZS6-yfr1-hnmkAvN7sYUAblsbVtpFrGkyE&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "全球连接：连接世界各地的团队",
+        "description": "凭借遍布 {primaryColor1}180+ 个国家{primaryColor1} 的用户，{website.name} 将全球团队连接在一起。我们的平台支持多种语言，并适应当地需求，确保人人可用。了解我们如何帮助从基层到职业水平的团队合作并取得成功。",
+        "author": "Omar Khalid",
+        "date": "2025年6月10日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRou2OiEkjargTJ3Wr6FT2INGd8h4DUmtr82w&s"
+      },
+      {
+        "id": 6,
+        "title": "为运动员提供易用的工具",
+        "description": "在 {website.name}，我们相信每位运动员都应享有专业级工具。我们的平台让各级别的团队都能轻松使用高级分析。从青少年联赛到精英球队，我们的使命是为每个人提供取胜所需的洞察力。加入我们，共同实现公平竞争。",
+        "author": "Emily Carter",
+        "date": "2025年5月25日",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurNAIR2sqygd7UGRTolEoD5lTFfdXG0uFdQ&s"
+      }
+    ]
+  }
+}

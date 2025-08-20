@@ -1,0 +1,87 @@
+{
+  "page1": {
+    "title": "Cambia la forma en que ves el juego",
+    "slogan": "{website.name} ayuda a atletas, equipos, entrenadores y comunidades a aprovechar al máximo cada momento.",
+    "links": [
+      { "text": "PARA ENTRENADORES Y EQUIPOS", "to": "/teams" },
+      { "text": "PARA FANS Y FAMILIA", "to": "/fans" }
+    ]
+  },
+  "page2": {
+    "title": "Nuestras soluciones destacadas",
+    "cards": [
+      {
+        "title": "Titan GPS se une",
+        "description": "Una visión completa del rendimiento del atleta: combina métricas físicas, video y estadísticas para todos los niveles en un ecosistema poderoso.",
+        "link": "/titan-gps"
+      },
+      {
+        "title": "Ver partidos en vivo y destacados",
+        "description": "Tus atletas y equipos favoritos están en esta plataforma: desde transmisiones en vivo hasta momentos que no te puedes perder.",
+        "link": "/live-games"
+      },
+   
+      {
+        "title": "Ve tu deporte de forma diferente",
+        "description": "Cuando se trata de datos, análisis y análisis de rendimiento, ofrece más soluciones para más deportes.",
+        "link": "/analytics"
+      }
+    ]
+  },
+  "page3": {
+    "title": "La plataforma tecnológica deportiva de confianza para el rendimiento",
+    "description": "Brindamos el mejor video con análisis instantáneo y conocimientos que todos pueden usar realmente. Así es como gestionamos organizaciones en todos los niveles del deporte."
+  },
+  "page4": {
+    "title": "Conéctate con atletas, equipos y comunidades",
+    "description": "¿Quieres seguir a tu atleta o equipo favorito? Ya sea resultados, horarios, estadísticas, transmisiones en vivo o cualquier otra cosa... está en {website.name}.",
+    "links": [
+      { "text": "Explora nuestros programas", "to": "/teams" }
+    ]
+  },
+  "page6": {
+    "title": "Creemos en el deporte. Y los equipos creen en nosotros.",
+    "stats": [
+      { "number": "200K+", "label": "Equipos en todo el mundo" },
+      { "number": "6M+", "label": "Usuarios activos" },
+      { "number": "180+", "label": "Países" }
+    ],
+    "testimonials": [
+      {
+        "name": "Lewis Macmillan",
+        "role": "Director de Insights de Jugadores, Fulham FC",
+        "quote": "Al asociarse con nosotros, nuestra idea de un enfoque integrado, eficiente y holístico del análisis de datos de atletas puede realizarse. Lo vemos como un gran paso adelante."
+      },
+      {
+        "name": "Quentin White",
+        "role": "Director Atlético, McGregor HS (TX)",
+        "quote": "Realmente me permite tener más tiempo para hacer mejor mi trabajo cuando tengo esta tienda integral."
+      }
+    ]
+  },
+  "page7": {
+    "title": "Soluciones deportivas completas",
+    "cards": [
+      {
+        "title": "Titan GPS se une",
+        "description": "Una visión completa del rendimiento del atleta: combina métricas físicas, video y estadísticas para todos los niveles en un ecosistema poderoso.",
+        "link": "/titan-gps"
+      },
+      {
+        "title": "Ver partidos en vivo y destacados",
+        "description": "Tus atletas y equipos favoritos están en esta plataforma: desde transmisiones en vivo hasta momentos que no te puedes perder.",
+        "link": "/live-games"
+      },
+   
+      {
+        "title": "Ve tu deporte de forma diferente",
+        "description": "Cuando se trata de datos, análisis y análisis de rendimiento, ofrece más soluciones para más deportes.",
+        "link": "/analytics"
+      }
+    ]
+  },
+  "page8": {
+    "title": "Ve a {website.name} en acción.",
+    "link": { "text": "Regístrate ahora", "to": "/signup" }
+  }
+}

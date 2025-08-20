@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "title": "Únete a {website.name} como Entrenador o Miembro del Equipo",
+    "subtitle": "Forma parte de una comunidad global que está revolucionando el rendimiento deportivo. Ya seas un entrenador que lidera al equipo hacia la victoria o un miembro que busca la excelencia, {website.name} te proporciona las herramientas que necesitas."
+  },
+  "becomeCoach": {
+    "title": "Cómo ser entrenador en {website.name}",
+    "description": "Como entrenador, tendrás acceso a análisis avanzados, herramientas de video y funciones de gestión de equipo para guiar a tus atletas hacia el éxito. Sigue estos pasos para comenzar y elevar tu nivel de entrenamiento.",
+    "steps": [
+      {
+        "id": 1,
+        "title": "Regístrate gratis",
+        "description": "Crea tu cuenta de {website.name} en minutos. Proporciona tus datos básicos y verifica tu correo electrónico para comenzar a explorar nuestra plataforma.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Configura tu perfil",
+        "description": "Agrega tu experiencia como coach, selecciona tu deporte y personaliza tu panel. Conéctate con equipos o crea uno nuevo fácilmente.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Accede a herramientas y recursos",
+        "description": "Explora análisis de video, seguimiento de estadísticas y funciones de colaboración. Invita a miembros del equipo y comienza a construir estrategias ganadoras hoy mismo.",
+        "icon": "stats"
+      }
+    ]
+  },
+  "becomeTeamMember": {
+    "title": "Cómo ser miembro del equipo en {website.name}",
+    "description": "Únete como miembro del equipo para hacer seguimiento de tu rendimiento, colaborar con entrenadores y acceder a información personalizada. Participar en cualquier deporte a nivel mundial es fácil.",
+    "form": {
+      "title": "Regístrate como Entrenador o Miembro del Equipo",
+      "subtitle": "Completa el formulario a continuación para unirte a {website.name} y comenzar tu trayectoria en rendimiento deportivo.",
+      "fields": {
+        "name": "Nombre Completo",
+        "email": "Correo Electrónico",
+        "role": "Seleccionar Rol",
+        "sport": "Seleccionar Deporte",
+        "submit": "Únete Ahora"
+      },
+      "roles": ["Entrenador", "Miembro del Equipo"],
+      "sports": ["Fútbol", "Baloncesto", "Voleibol", "Fútbol Americano", "Hockey", "Béisbol", "Atletismo", "Natación", "Tenis", "Lacrosse", "Rugby", "Críquet", "Lucha", "Softbol", "Gimnasia"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Registra tu cuenta",
+        "description": "Regístrate con tus datos y selecciona tu rol como entrenador o miembro del equipo. No hay costos para unirte y empezar a participar.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Únete o crea un equipo",
+        "description": "Busca equipos existentes en tu deporte o crea uno nuevo. Conéctate con entrenadores y atletas a nivel mundial.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Explora las funciones",
+        "description": "Sube videos, consulta estadísticas y participa en discusiones. Usa nuestras herramientas para mejorar tus habilidades y el rendimiento del equipo.",
+        "icon": "video"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Beneficios de unirse a {website.name}",
+    "items": [
+      {
+        "id": 1,
+        "title": "Análisis avanzado",
+        "description": "Obtén conocimientos detallados sobre el rendimiento con estadísticas y visualizaciones impulsadas por IA para una mejor toma de decisiones.",
+        "icon": "stats"
+      },
+      {
+        "id": 2,
+        "title": "Comunidad global",
+        "description": "Conéctate con equipos y entrenadores en más de {primaryColor1}180+ países{primaryColor1} para compartir conocimiento y oportunidades.",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "Colaboración en video",
+        "description": "Comparte y analiza imágenes de partidos en tiempo real con herramientas intuitivas diseñadas para todos los niveles deportivos.",
+        "icon": "video"
+      },
+      {
+        "id": 4,
+        "title": "Soporte personalizado",
+        "description": "Recibe orientación y recursos adaptados para maximizar tu potencial como entrenador o miembro del equipo.",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "title": "Compatibilidad multideporte",
+        "description": "Ya sea fútbol, baloncesto o cualquiera de los más de 15 deportes disponibles, nuestra plataforma se adapta a tus necesidades.",
+        "icon": "globe"
+      },
+      {
+        "id": 6,
+        "title": "Acceso gratuito",
+        "description": "Comienza con nuestro plan gratuito y actualiza según lo necesites para acceder a funciones premium y mayores límites.",
+        "icon": "stats"
+      }
+    ]
+  }
+}

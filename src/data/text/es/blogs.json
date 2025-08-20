@@ -1,0 +1,59 @@
+{
+  "hero": {
+    "title": "Blog de {website.name}",
+    "subtitle": "Descubre las últimas ideas, consejos y novedades sobre tecnología deportiva, análisis de rendimiento y más, del equipo de {website.name}."
+  },
+  "blogs": {
+    "title": "Últimas Publicaciones",
+    "items": [
+      {
+        "id": 1,
+        "title": "Cómo la IA está transformando el análisis deportivo",
+        "description": "La inteligencia artificial está revolucionando la forma en que entrenadores y atletas analizan el rendimiento. En {website.name}, nuestras herramientas de IA ayudan a identificar jugadas y tendencias clave en segundos. Desde videos destacados automáticos hasta análisis predictivos, descubre cómo la tecnología está moldeando el futuro del deporte. Nuestras últimas actualizaciones hacen que el análisis sea más rápido e intuitivo que nunca. Mantente a la vanguardia con {website.name}.",
+        "author": "Lucas Andrade",
+        "date": "5 de agosto de 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujYgGA83X-bf70YeHs5PPzJCP107naLymbg&s"
+      },
+      {
+        "id": 2,
+        "title": "Maximizando el rendimiento del equipo con herramientas de video",
+        "description": "El análisis de video es un cambio radical para los entrenadores. Con {website.name}, los equipos pueden desglosar jugadas cuadro por cuadro para identificar fortalezas y debilidades. Nuestra plataforma se integra perfectamente con los flujos de trabajo de entrenamiento, ahorrando tiempo y aumentando la eficiencia. Descubre cómo los equipos de élite usan nuestras herramientas para mejorar sus planes de juego y lograr victorias consistentes.",
+        "author": "Isabella Rossi",
+        "date": "28 de julio de 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO2tbVJ2ldXcxWnc6Oew-mb7CFBTcF6Q1fw&s"
+      },
+      {
+        "id": 3,
+        "title": "El futuro de la tecnología deportiva: ¿qué sigue?",
+        "description": "La tecnología deportiva evoluciona rápidamente y {website.name} está a la vanguardia. Desde dispositivos portátiles hasta análisis en tiempo real, estamos creando herramientas que empoderan a atletas de todo el mundo. Explora las tendencias que están dando forma a la industria y cómo nuestra plataforma prepara a los equipos para la próxima era de competencia. La innovación comienza aquí.",
+        "author": "David Li",
+        "date": "15 de julio de 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAf5tGvZE6yaXpkwC_ajOfjRSQKQd87OtqLA&s"
+      },
+      {
+        "id": 4,
+        "title": "Construyendo una cultura ganadora con datos",
+        "description": "Las decisiones basadas en datos son clave para construir una cultura de equipo ganadora. {website.name} proporciona información que ayuda a los entrenadores a tomar decisiones más inteligentes. Desde el seguimiento del progreso de los jugadores hasta la optimización de estrategias, nuestras herramientas fomentan la colaboración y el crecimiento. Descubre cómo los equipos de élite usan los datos para mantenerse competitivos y unidos.",
+        "author": "Chloe Nguyen",
+        "date": "30 de junio de 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucPgg7EQymM1PZxrap_1mnRmwuBwORnM_zZS6-yfr1-hnmkAvN7sYUAblsbVtpFrGkyE&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Alcance global: conectando equipos en todo el mundo",
+        "description": "Con usuarios en más de {primaryColor1}180+ países{primaryColor1}, {website.name} conecta equipos de todo el mundo. Nuestra plataforma admite múltiples idiomas y se adapta a las necesidades locales, garantizando accesibilidad para todos. Descubre cómo ayudamos a equipos, desde el nivel base hasta el profesional, a colaborar y tener éxito.",
+        "author": "Omar Khalid",
+        "date": "10 de junio de 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRou2OiEkjargTJ3Wr6FT2INGd8h4DUmtr82w&s"
+      },
+      {
+        "id": 6,
+        "title": "Empoderando a los atletas con herramientas accesibles",
+        "description": "En {website.name}, creemos que todo atleta merece herramientas de nivel profesional. Nuestra plataforma hace que el análisis avanzado sea fácil de usar para equipos de todos los niveles. Desde ligas juveniles hasta equipos de élite, nuestra misión es empoderar a todos con la información necesaria para sobresalir. Únete a nosotros para nivelar el campo de juego.",
+        "author": "Emily Carter",
+        "date": "25 de mayo de 2025",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurNAIR2sqygd7UGRTolEoD5lTFfdXG0uFdQ&s"
+      }
+    ]
+  }
+}

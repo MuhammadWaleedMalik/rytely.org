@@ -1,0 +1,69 @@
+{
+  "hero": {
+    "title": "Juega juegos en línea en vivo con {website.name}",
+    "subtitle": "Únete a la emoción de los juegos en línea en vivo en {website.name}. Compite con jugadores de {primaryColor1}más de 180 países{primaryColor1}, organiza tus propias sesiones o participa en acción multijugador en tiempo real."
+  },
+  "joinGames": {
+    "title": "Únete o aloja juegos en vivo",
+    "description": "Entra en el juego con la plataforma de juegos en vivo de {website.name}. Ya seas jugador u anfitrión, nuestras herramientas te permiten conectarte y competir en tiempo real. Regístrate abajo para comenzar tu aventura.",
+    "form": {
+      "title": "Regístrate para juegos en vivo",
+      "subtitle": "Completa el formulario para unirte o alojar una sesión de juego en vivo en {website.name}.",
+      "fields": {
+        "name": "Nombre completo",
+        "email": "Correo electrónico",
+        "game": "Seleccionar juego",
+        "role": "Seleccionar rol",
+        "submit": "Unirse ahora"
+      },
+      "games": ["Fortnite", "Among Us", "Valorant", "PUBG", "Call of Duty: Warzone", "Powerline.io", "Game of Bombs"],
+      "roles": ["Jugador", "Anfitrión"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "Crea tu cuenta",
+        "description": "Regístrate gratis en {website.name} para acceder a nuestra plataforma de juegos en vivo y unirte a la comunidad.",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "Elige tu juego",
+        "description": "Selecciona entre juegos populares como Fortnite, Among Us o Valorant, y únete o aloja sesiones.",
+        "icon": "gamepad"
+      },
+      {
+        "id": 3,
+        "title": "Juega y compite",
+        "description": "Participa en partidas en tiempo real, colabora con otros jugadores y sigue tu progreso con las herramientas de {website.name}.",
+        "icon": "play"
+      }
+    ]
+  },
+  "popularGames": {
+    "title": "Juegos en vivo populares",
+    "items": [
+      {
+        "id": 1,
+        "title": "Fortnite",
+        "description": "Únete a millones en el battle royale de Epic. Compite en partidas en vivo y busca la Victoria Magistral en {website.name}.",
+        "icon": "trophy",
+        "image": "https://images.unsplash.com/photo-1595675021513-0e8f48c25dc0?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "id": 2,
+        "title": "Among Us",
+        "description": "Forma equipo o engaña como tripulante o impostor en este emocionante juego multijugador, en vivo en {website.name}.",
+        "icon": "users",
+        "image": "https://images.unsplash.com/photo-1611293388357-2d4c204d8d5f?q=80&w=2070&auto=format&fit=crop"
+      },
+      {
+        "id": 3,
+        "title": "Valorant",
+        "description": "Pon a prueba tu puntería y estrategia en partidas 5v5 en vivo. Juega con amigos o compite globalmente en {website.name}.",
+        "icon": "play",
+        "image": "https://images.unsplash.com/photo-1628191010210-3b00b216030e?q=80&w=2070&auto=format&fit=crop"
+      }
+    ]
+  }
+}

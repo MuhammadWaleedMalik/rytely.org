@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "用 {website.name} 改变比赛格局",
+    "subtitle": "我们正在革新运动员、教练和团队分析表现并与粉丝互动的方式"
+  },
+  "mission": {
+    "title": "我们的使命",
+    "description": "{website.name} 致力于通过视频分析、数据洞察和粉丝互动工具帮助团队和运动员取得胜利。我们相信技术应提升，而非复杂化体育体验。"
+  },
+  "features": {
+    "title": "为什么团队选择 {website.name}",
+    "items": [
+      {
+        "id": 1,
+        "title": "视频分析",
+        "description": "使用我们强大的工具分解比赛录像，帮助教练和运动员识别优势与改进领域。",
+        "icon": "video"
+      },
+      {
+        "id": 2,
+        "title": "性能统计",
+        "description": "通过我们先进的分析仪表板跟踪并可视化关键指标，以衡量进步。",
+        "icon": "stats"
+      },
+      {
+        "id": 3,
+        "title": "粉丝互动",
+        "description": "通过直播、精彩集锦和互动内容与您的社区连接。",
+        "icon": "users"
+      },
+      {
+        "id": 4,
+        "title": "全球覆盖",
+        "description": "在 {primaryColor1}180 多个国家{primaryColor1} 中被团队使用，我们的平台连接全球体育社区。",
+        "icon": "globe"
+      },
+      {
+        "id": 5,
+        "title": "轻松分享",
+        "description": "只需几次点击即可快速与球员、教练和招募者分享剪辑和分析。",
+        "icon": "share"
+      },
+      {
+        "id": 6,
+        "title": "自动捕捉",
+        "description": "我们的智能摄像机会自动记录和标记关键时刻，让您不会错过重要比赛。",
+        "icon": "camera"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} 数据一览",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "全球团队"
+      },
+      {
+        "value": "6M+",
+        "label": "活跃用户"
+      },
+      {
+        "value": "180+",
+        "label": "国家"
+      },
+      {
+        "value": "15+",
+        "label": "运动项目"
+      }
+    ]
+  },
+  "team": {
+    "title": "我们的团队",
+    "description": "{website.name} 团队由前运动员、教练和热情的技术专家组成，致力于通过创新改善体育事业。"
+  }
+}

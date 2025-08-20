@@ -1,0 +1,108 @@
+{
+  "hero": {
+    "title": "以教练或团队成员身份加入 {website.name}",
+    "subtitle": "加入一个正在革新体育表现的全球社区。无论您是带领团队走向胜利的教练，还是追求卓越的团队成员，{website.name} 都为您提供所需的工具。"
+  },
+  "becomeCoach": {
+    "title": "如何成为 {website.name} 的教练",
+    "description": "作为教练，您将能使用先进的分析功能、视频工具和团队管理功能，帮助运动员迈向成功。请参照以下步骤开始并提升您的执教表现。",
+    "steps": [
+      {
+        "id": 1,
+        "title": "免费注册",
+        "description": "几分钟内即可创建您的 {website.name} 账户，填写基本信息并验证邮箱即可开始使用。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "设置您的个人资料",
+        "description": "填写执教经验、选择项目并自定义仪表板。轻松加入团队或创建团队。",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "访问工具与资源",
+        "description": "使用视频分析、统计追踪与协作功能。邀请成员并开始构建冠军策略。",
+        "icon": "stats"
+      }
+    ]
+  },
+  "becomeTeamMember": {
+    "title": "如何成为 {website.name} 的团队成员",
+    "description": "加入成为团队成员，跟踪表现，和教练协作，并获取个性化见解。任何项目，全世界都能轻松参与。",
+    "form": {
+      "title": "以教练或团队成员身份注册",
+      "subtitle": "填写下表加入 {website.name}，开始您的体育表现之旅。",
+      "fields": {
+        "name": "全名",
+        "email": "电子邮箱",
+        "role": "选择角色",
+        "sport": "选择运动项目",
+        "submit": "立即加入"
+      },
+      "roles": ["教练", "团队成员"],
+      "sports": ["足球", "篮球", "排球", "橄榄球", "曲棍球", "棒球", "田径", "游泳", "网球", "长曲棍球", "橄榄球联盟", "板球", "摔跤", "垒球", "体操"]
+    },
+    "steps": [
+      {
+        "id": 1,
+        "title": "注册账户",
+        "description": "填写信息并选择教练或团队成员角色，无需费用即可加入并开始使用。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "加入或创建团队",
+        "description": "搜索您项目中已有团队或自行创建，与全球教练和队员连接。",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "使用功能",
+        "description": "上传视频、查看统计、参与讨论。使用我们的工具提升个人与团队表现。",
+        "icon": "video"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "加入 {website.name} 的优势",
+    "items": [
+      {
+        "id": 1,
+        "title": "高级分析",
+        "description": "通过 AI 驱动的统计和可视化深入了解表现，更好地决策。",
+        "icon": "stats"
+      },
+      {
+        "id": 2,
+        "title": "全球社区",
+        "description": "与来自 {primaryColor1}180+ 个国家{primaryColor1} 的团队与教练互动，分享知识与机会。",
+        "icon": "globe"
+      },
+      {
+        "id": 3,
+        "title": "视频协作",
+        "description": "使用直观工具实时分享与分析比赛视频，覆盖各级别体育。",
+        "icon": "video"
+      },
+      {
+        "id": 4,
+        "title": "个性化支持",
+        "description": "获取专属指导与资源，帮助您发挥教练或队员的最大潜能。",
+        "icon": "users"
+      },
+      {
+        "id": 5,
+        "title": "多项目支持",
+        "description": "无论是足球、篮球，还是上述 15+ 项运动，我们的平台都能适应。",
+        "icon": "globe"
+      },
+      {
+        "id": 6,
+        "title": "免费使用",
+        "description": "从免费计划开始，根据需要升级以解锁高级功能与更高限额。",
+        "icon": "stats"
+      }
+    ]
+  }
+}

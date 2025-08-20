@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "title": "{website.name} 隐私政策",
+    "subtitle": "我们重视您的隐私，并致力于保护您的个人信息"
+  },
+  "mission": {
+    "title": "我们的隐私承诺",
+    "description": "在 {website.name}，我们认真对待您的隐私。本政策解释了当您使用我们的平台和服务时，我们如何收集、使用和保护您的数据。"
+  },
+  "features": {
+    "title": "主要隐私做法",
+    "items": [
+      {
+        "id": 1,
+        "title": "我们收集的信息",
+        "description": "我们收集电子邮件、姓名和使用数据等个人信息，以及您上传的内容，如视频和统计数据。",
+        "icon": "users"
+      },
+      {
+        "id": 2,
+        "title": "我们如何使用您的数据",
+        "description": "您的信息用于提供服务、改进平台、与您沟通以及遵守法律要求。",
+        "icon": "stats"
+      },
+      {
+        "id": 3,
+        "title": "数据共享",
+        "description": "我们可能与服务提供商、业务转让中或法律要求时共享数据。我们不会出售您的个人信息。",
+        "icon": "share"
+      },
+      {
+        "id": 4,
+        "title": "安全措施",
+        "description": "我们实施行业标准的安全措施，以保护您的数据免遭未经授权的访问或泄露。",
+        "icon": "globe"
+      },
+      {
+        "id": 5,
+        "title": "您的权利和选择",
+        "description": "您可以访问、更新、删除您的数据，并选择退出某些通信。请联系我们提交隐私请求。",
+        "icon": "video"
+      },
+      {
+        "id": 6,
+        "title": "Cookies 和跟踪",
+        "description": "我们使用 cookies 提供功能和分析。您可以通过浏览器设置管理 cookies 偏好。",
+        "icon": "camera"
+      }
+    ]
+  },
+  "stats": {
+    "title": "{website.name} 数据一览",
+    "items": [
+      {
+        "value": "200K+",
+        "label": "全球团队"
+      },
+      {
+        "value": "6M+",
+        "label": "活跃用户"
+      },
+      {
+        "value": "180+",
+        "label": "国家"
+      },
+      {
+        "value": "15+",
+        "label": "运动项目"
+      }
+    ]
+  },
+  "team": {
+    "title": "本政策的更新",
+    "description": "我们可能会定期更新本隐私政策。重大更改将通过电子邮件或平台公告通知您。"
+  }
+}

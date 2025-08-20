@@ -1,0 +1,76 @@
+  {
+    "hero": {
+      "title": "Changing the Game with {website.name}",
+      "subtitle": "We're revolutionizing how athletes, coaches, and teams analyze performance and engage with fans"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "{website.name} exists to help teams and athletes win through video analysis, data insights, and fan engagement tools. We believe technology should enhance—not complicate—the sports experience."
+    },
+    "features": {
+      "title": "Why Teams Choose {website.name}",
+      "items": [
+        {
+          "id": 1,
+          "title": "Video Analysis",
+          "description": "Break down game film with our powerful tools that help coaches and athletes identify strengths and areas for improvement.",
+          "icon": "video"
+        },
+        {
+          "id": 2,
+          "title": "Performance Stats",
+          "description": "Track and visualize key metrics with our advanced analytics dashboard to measure progress over time.",
+          "icon": "stats"
+        },
+        {
+          "id": 3,
+          "title": "Fan Engagement",
+          "description": "Connect with your community through live streams, highlights, and interactive content.",
+          "icon": "users"
+        },
+        {
+          "id": 4,
+          "title": "Global Reach",
+          "description": "Used by teams in {primaryColor1}180+ countries{primaryColor1}, our platform connects the global sports community.",
+          "icon": "globe"
+        },
+        {
+          "id": 5,
+          "title": "Easy Sharing",
+          "description": "Quickly share clips and analysis with players, coaches, and recruiters with just a few clicks.",
+          "icon": "share"
+        },
+        {
+          "id": 6,
+          "title": "Automated Capture",
+          "description": "Our smart cameras automatically record and tag key moments so you never miss important plays.",
+          "icon": "camera"
+        }
+      ]
+    },
+    "stats": {
+      "title": "{website.name} By The Numbers",
+      "items": [
+        {
+          "value": "200K+",
+          "label": "Teams Worldwide"
+        },
+        {
+          "value": "6M+",
+          "label": "Active Users"
+        },
+        {
+          "value": "180+",
+          "label": "Countries"
+        },
+        {
+          "value": "15+",
+          "label": "Sports"
+        }
+      ]
+    },
+    "team": {
+      "title": "Our Team",
+      "description": "The {website.name} team is made up of former athletes, coaches, and passionate technologists dedicated to improving sports through innovation."
+    }
+  }
